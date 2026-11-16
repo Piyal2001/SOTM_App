@@ -1,0 +1,28 @@
+﻿# Python environments
+.venv/
+.venv-1/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Backup files
+*_backup.py
+
+# Testing and validation scripts
+test_*.py
+validate_*.py
+find_moving_test_pass.py
+
+# Generated simulation results
+results/*
+
+# Nested unrelated repository
+SOTM_App/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
